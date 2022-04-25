@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>Pagina3</title>
+   <h1 style="border: #9ce22b;color: coral;size:xlarge;">Aqui não tinha nada, agora tem muita notícia!</h1>
+   
+</head>
+<body>
+   <img src="../IMG/images.jpg"/>
+   <h2 style="size: xlarge; color:green;">Rússia diz que relações com EUA estão perto de se romper após comentários de Biden sobre Putin</h2>
+   <p>A guerra na Ucrânia começou no dia 24 de fevereiro com a invasão do território do país pela Rússia.</p><br>
+   <p>O Ministério das Relações Exteriores da Rússia disse nesta segunda-feira (21) que convocou o embaixador dos Estados Unidos, John Sullivan,
+      para lhe dizer que as declarações do presidente dos Estados Unidos, Joe Biden, ao chamar o presidente russo, Vladimir Putin, de criminoso de
+      guerra levaram os laços bilaterais à beira do colapso.</p><br> 
+   
+   <A href="G:\Meu Drive\Naty\Cursos profissionalizantes\ETEC-Desenvolvimento de Sistemas\1- Semestre\2º-Programação WEB 1-Prof. Marcio Cezar\visual studio testes\aula 14.03.22\Index.html"><img src="..//IMG/home.jpg"style="width: 50px; height:50px;"></A>
+   <A href="Page.html"><img src="../IMG/esquerda.jpg"style="width: 50px; height:50px;"></A>
+   
+</body>
+</html>
